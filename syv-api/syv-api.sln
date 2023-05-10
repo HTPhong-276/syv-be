@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "syv-api", "syv-api\syv-api.csproj", "{8E19DB81-F498-4136-AD9C-C4B92FC48AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E19DB81-F498-4136-AD9C-C4B92FC48AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E19DB81-F498-4136-AD9C-C4B92FC48AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E19DB81-F498-4136-AD9C-C4B92FC48AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E19DB81-F498-4136-AD9C-C4B92FC48AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0860B3D-BDB7-40BC-8A40-444D725F11B2}
+	EndGlobalSection
+EndGlobal
